@@ -31,7 +31,7 @@ Ouvrez les notebooks dans votre IDE favori (Jupyter, VS Code, etc.).
 
 ## 💬 Me contacter
 
-Pour toute collaboration ou question : [Mon LinkedIn](https://linkedin.com/in/ton-nom) • email@example.com
+Pour toute collaboration ou question : [Mon LinkedIn](https://linkedin.com/in/ton-nom) • bedanespiller16@gmail.com
 
 ## 🎯 Progression
 
