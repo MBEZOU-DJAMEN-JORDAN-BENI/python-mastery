@@ -19,9 +19,22 @@ Ce repository documente mon apprentissage intensif de Python, Data Science et In
 ## 📂 Structure
 
 - `semaine-01/` à `semaine-10/` : Exercices et projets hebdomadaires
-- `portfolio/` : Projets finalisés pour démonstration
+- `portfolio/` : Projets finalisés pour démonstration 
+
+## 🚀 Démarrer
+
+```bash
+git clone https://github.com/MBEZOU-DJAMEN-JORDAN-BENI/python-mastery.git
+cd python-mastery
+```
+Ouvrez les notebooks dans votre IDE favori (Jupyter, VS Code, etc.).
+
+## 💬 Me contacter
+
+Pour toute collaboration ou question : [Mon LinkedIn](https://linkedin.com/in/ton-nom) • email@example.com
 
 ## 🎯 Progression
 
 Mise à jour quotidienne avec mes apprentissages et réalisations.
-EOF
+
+
