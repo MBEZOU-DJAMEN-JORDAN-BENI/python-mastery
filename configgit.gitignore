@@ -1,4 +1,27 @@
-.venv/
+cat > .gitignore << 'EOF'
+# Environnement virtuel
+venv/
+env/
+
+# Fichiers Python compilés
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
+# Notebooks Jupyter
+.ipynb_checkpoints/
+
+# Fichiers de configuration IDE
+.vscode/
+.idea/
+
+# Données sensibles
+*.env
+.env
+
+# Datasets volumineux
+*.csv
+*.json
+data/
+EOF
