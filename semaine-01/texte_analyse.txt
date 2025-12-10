@@ -1,0 +1,5 @@
+
+Python est un language genniale pour data science.
+Python permet de manipu;er des donnees facilement.
+La data science utilise Python massivement.
+L'intellingence artificielle prefere Python aussi

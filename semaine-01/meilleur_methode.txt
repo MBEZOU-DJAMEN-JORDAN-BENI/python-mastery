@@ -1,0 +1,3 @@
+ Cette methode est mieux. 
+ Le fichire se off automatiquement. 
+Meme si ub=ne erreur survient! 
